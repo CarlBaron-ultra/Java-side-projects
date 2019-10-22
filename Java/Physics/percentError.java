@@ -8,8 +8,6 @@ public class percentError
 	{
 		Scanner inp=new Scanner(System.in);
 		
-		//float meas1=(float) 0.0044;
-		//float meas2=(float) 0.0035998;
 		System.out.print("Enter the measured value: ");
 		float meas=inp.nextFloat();
 		
